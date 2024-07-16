@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Farid Sidik</h1>
 <h3 align="center">Intern programmer with ChatGPT skills</h3>
 
-- 📫 How to reach me **fariducer@gmail.com**
+- 👨‍💻 Website [https://faridsidik.netlify.app/](https://faridsidik.netlify.app/)
+
+- 📫 Reach me **fariducer@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
